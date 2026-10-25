@@ -1,19 +1,19 @@
 {
   "name": "styled-components-stream",
-  "version": "2.66.0",
+  "version": "0.0.0-canary-verify.r20261025-763d1986098974dfc2053d233497883b",
   "private": true,
   "scripts": {
     "dev": "modern dev"
   },
   "dependencies": {
-    "@modern-js/runtime": "workspace:*",
-    "@modern-js/plugin-styled-components": "workspace:*",
+    "@modern-js/runtime": "workspace:0.0.0-canary-verify.r20261025-763d1986098974dfc2053d233497883b",
+    "@modern-js/plugin-styled-components": "workspace:0.0.0-canary-verify.r20261025-763d1986098974dfc2053d233497883b",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
   "devDependencies": {
-    "@modern-js/app-tools": "workspace:*",
-    "@modern-js/tsconfig": "workspace:*",
+    "@modern-js/app-tools": "workspace:0.0.0-canary-verify.r20261025-763d1986098974dfc2053d233497883b",
+    "@modern-js/tsconfig": "workspace:0.0.0-canary-verify.r20261025-763d1986098974dfc2053d233497883b",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "typescript": "^5"
